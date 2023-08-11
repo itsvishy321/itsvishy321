@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Verma</h1>
-<h3 align="center">A passionate Competitive Programmer and Web Developer</h3>
+<h3 align="center">A passionate Competitive Programmer and Front-end Web Developer</h3>
 
 - 💬 Ask me about **Data Structures and Algorithms, Competetive Programming**
 
